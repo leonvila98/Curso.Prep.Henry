@@ -41,7 +41,7 @@ function agregarStringInvertida() {
       var x = this.length;
       var cadenaInvertida = "";
     
-      while (x>=0) {
+      while (x>=0){
         cadenaInvertida = cadenaInvertida + this.charAt(x);
         x--;
       }
