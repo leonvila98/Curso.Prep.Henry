@@ -57,8 +57,7 @@ function dePalabrasAFrase(palabras) {
   // Ejemplo: ['Hello', 'world!'] -> 'Hello world!'
   // Tu código:
   var word = palabras[0];
-  for(var i = 1; i<palabras.length;i++)
-  {
+  for(var i = 1; i<palabras.length;i++){
     word = word + ` ${palabras[i]}`;
   }
   return word;
