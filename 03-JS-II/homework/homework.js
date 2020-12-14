@@ -66,6 +66,7 @@ function esEntero(numero) {
     return true;
   }
   return false;
+  
 }
 
 function fizzBuzz(numero) {
