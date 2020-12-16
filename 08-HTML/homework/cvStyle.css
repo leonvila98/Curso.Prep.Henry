@@ -1,0 +1,15 @@
+div{
+    margin: 10px;
+    font-family: Futura,Trebuchet MS,Arial,sans-serif; 
+}
+#bloqueUno{
+    display: flex;
+    justify-content: flex-start;
+}
+#descripcionPersonal{
+    width: 400px;
+    height: 400px;
+}
+img{
+    border: 5px Tomato solid;
+}
